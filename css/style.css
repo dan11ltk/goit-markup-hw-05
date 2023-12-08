@@ -504,7 +504,6 @@ width: 71px;
   .footer-input {
     width: 264px;
     height: 40px;
-    line-height: 2;
     border-radius: 4px;
     border: 1px solid #ffffff;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
@@ -512,7 +511,7 @@ width: 71px;
     color: #fff;
     background-color: transparent;
     font-size: 12px;
-    line-height: 1.5;
+    line-height: 2;
     letter-spacing: 0.04em;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
   }
